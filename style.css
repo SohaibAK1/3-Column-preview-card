@@ -70,6 +70,7 @@ p{
 button{
     font-family: Lexend Deca;
     font-weight:400;
+    cursor: pointer;
 }
 .first button{
     margin-left: 45px;
